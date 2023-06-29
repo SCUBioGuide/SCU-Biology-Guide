@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'SCU_Bio_Guide'
+project = 'SCUBioGuide'
 copyright = '2023, SCUBioGuide'
 author = 'SCUBioGuide'
 
