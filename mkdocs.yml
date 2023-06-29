@@ -1,3 +1,17 @@
 site_name: 四川大学生命科学课程攻略
-
+theme:
+  name: readthedocs
+  highlightjs: true
 repo_url: https://github.com/SCUBioGuide/SCUBioGuide
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        # See: https://mkdocstrings.github.io/python/usage/
+        python:
+          options:
+            docstring_style: sphinx
+markdown_extensions:
+  - markdown_include.include:
+      base_path: .
+  - admonition
