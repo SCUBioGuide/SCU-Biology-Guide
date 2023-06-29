@@ -5,6 +5,19 @@ theme:
 repo_url: https://github.com/SCUBioGuide/SCUBioGuide
 docs_dir: .
 site_dir: ../site
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.magiclink
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.snippets:
+      check_paths: true
+  - admonition
+  - def_list
+  - toc:
+      permalink: "#"
+
 plugins:
   - search
   - same-dir
