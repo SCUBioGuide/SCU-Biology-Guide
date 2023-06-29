@@ -3,8 +3,7 @@ theme:
   name: readthedocs
   highlightjs: true
 repo_url: https://github.com/SCUBioGuide/SCUBioGuide
-docs_dir: .
-site_dir: ../site
+docs_dir: '.'
 
 markdown_extensions:
   - pymdownx.highlight
@@ -20,4 +19,3 @@ markdown_extensions:
 
 plugins:
   - search
-  - same-dir
