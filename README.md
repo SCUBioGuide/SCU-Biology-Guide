@@ -1,16 +1,34 @@
-### Hi there 👋
+# 四川大学生命科学课程攻略
 
-<!--
-**SCUBioGuide/SCUBioGuide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 前言
+受 [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles) 及 [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/README.md) 启发，创立本项目。
 
-Here are some ideas to get you started:
+## 目的
+* 提供课程学习方法的指导
+* 提供课程的学习资源，包括笔记、考试题库、复习资料、参考书等
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 收录内容
+* 大学课程学习指导
+* 作业与大作业
+* 考试试卷
+* 复习资料
+* 教师及课程评价
+
+详细内容请查看[收录内容.md](todo)
+
+## 贡献
+欢迎贡献！
+
+Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家的关注、维护和贡献，才是让本项目继续存在的动力~
+
+如果希望匿名贡献，可以 email 至此邮箱，注明 "SCUBioGuide" 即可：scubioguide@qq.com
+
+## 贡献方式
+贡献方式及规范请查看[贡献.md](todo)
+
+## 注意事项
+* 请勿上传任何可能涉及版权争议的内容，如
+    1. 盗版电子书/付费电子书
+    2. 盗版/破解版/绿色版付费软件及其安装包
+    3. 课程/教师主页上列出的内容（请在获得教师许可后上传）
+* 在贡献者未声明的情况下，版权归属于其作者
