@@ -3,4 +3,8 @@ theme:
   name: readthedocs
   highlightjs: true
 repo_url: https://github.com/SCUBioGuide/SCUBioGuide
-docs_dir: '/'
+docs_dir: .
+
+plugins:
+  - search
+  - same-dir
