@@ -3,7 +3,7 @@
 import os, argparse
 from os.path import sep
 
-EXCLUDE = ['.git', '.gitignore', 'LICENSE', 'Makefile', 'make.bat', 'setup.py', 'source', 'thu_cst_cracker.egg-info']
+EXCLUDE = ['.git', '.gitignore', 'LICENSE', 'Makefile', 'make.bat', 'setup.py', 'source', 'thu_cst_cracker.egg-info', '.readthedocs.yaml', 'requirements.txt']
 README_MD = ['README.md', 'readme.md']
 EXT = '.md'
 PREFIX = 'https://github.com/SCUBioGuide/SCUBioGuide'
