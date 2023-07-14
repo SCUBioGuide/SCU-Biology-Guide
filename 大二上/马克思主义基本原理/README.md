@@ -2,6 +2,8 @@
 
 # 作业
 
+2023-马原-作业-曾诚:[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/tree/main/大二上/马克思主义基本原理/作业/2023-马原-作业-曾诚),[阿里云盘](https://www.aliyundrive.com/s/d8o8ijrHytg)
+
 # 复习重点
 
 # 学习方法
