@@ -2,6 +2,8 @@
 
 # 作业
 
+2023-毛概-毛概读书笔记-曾诚:[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/blob/main/大二下/毛泽东思想/作业/2023-毛概-毛概读书笔记-曾诚.docx),[阿里云盘](https://www.aliyundrive.com/s/3W5aXCstLdE)
+
 # 复习重点
 
 # 学习方法
