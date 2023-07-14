@@ -2,6 +2,8 @@
 
 # 作业
 
+2022-计算机编程-大作业-曾诚:[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/tree/main/大一上/生物学计算机编程语言/2022-计算机编程-大作业-曾诚),[阿里云盘](https://www.aliyundrive.com/s/U9kYnodxpQE)
+
 # 复习重点
 
 # 学习方法
