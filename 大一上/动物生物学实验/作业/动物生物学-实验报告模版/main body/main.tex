@@ -1,0 +1,63 @@
+\documentclass[a4paper,10pt]{article}
+
+\usepackage[UTF8, heading=true]{ctex}
+\usepackage{xeCJK}
+\usepackage{mathptmx}
+\usepackage{anyfontsize}
+\usepackage{t1enc}
+\usepackage{graphicx}
+\usepackage[top=20mm,bottom=20mm,left=20mm,right=20mm]{geometry}
+\usepackage{wrapfig}
+\usepackage{float} %设置图片浮动位置的宏包
+\usepackage{subfigure} %插入多图时用子图显示的宏包
+\usepackage[justification=centering]{caption}
+
+
+\newcommand{\upcite}[1]{\textsuperscript{\textsuperscript{\cite{#1}}}} 
+
+\makeatletter
+  \g@addto@macro{\CTEX@section@format}{\raggedright}
+\makeatother
+
+\makeatletter
+  \def\vhrulefill#1{\leavevmode\leaders\hrule\@height#1\hfill \kern\z@}
+\makeatother
+
+\setCJKmainfont{Heiti SC} 
+\pagestyle{plain}
+
+\begin{document}
+  % 标题区域开始
+  \begin{center}
+    \zihao{2}四川大学实验报告 \\
+    \vspace{1em}
+    \begin{tabular}{lll}
+      \zihao{4}学\hspace{1em}院\hspace{1em}生命科学院 & \zihao{4}专\hspace{2em}业\hspace{1em}生物科学\hspace{2em} & \zihao{4}\hspace{2em}级\hspace{2em}班\hspace{1em}组\\
+      
+      \zihao{4}姓\hspace{1em}名\hspace{1em}\hspace{3em} & \zihao{4}同实验者\hspace{1em}\hspace{3em} & \zihao{4}\hspace{1em}年\hspace{1em}月\hspace{1em}日
+    \end{tabular}
+
+    \vhrulefill{2pt}
+  \end{center}
+  \zihao{4}题\hspace{1em}目：
+  % 标题区域结束
+
+  \section{实验目的}
+
+  \section{实验原理}
+   
+  \section{实验步骤}
+
+  \section{实验结果}
+  
+  \section{讨论}
+   
+
+
+
+  \clearpage
+  \begin{thebibliography}{999}
+    
+  \end{thebibliography}
+
+\end{document}
