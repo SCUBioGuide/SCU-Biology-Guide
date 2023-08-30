@@ -2,11 +2,13 @@
 
 # 作业
 
-2022-计算机编程-大作业-曾诚:[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/tree/main/大一上/生物学计算机编程语言/2022-计算机编程-大作业-曾诚),[阿里云盘](https://www.aliyundrive.com/s/U9kYnodxpQE)
+2022-计算机编程-大作业-曾诚:[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/tree/main/大一上/生物学计算机编程语言/作业/2022-计算机编程-大作业-曾诚),[阿里云盘](https://www.aliyundrive.com/s/U9kYnodxpQE)
 
 # 复习重点
 
 # 学习方法
+
+杨旭家：Python课，可以网课加上课一起学习，比较基础的编程，建议电子笔记。期末作业是一个编程展示
 
 # 笔记
 

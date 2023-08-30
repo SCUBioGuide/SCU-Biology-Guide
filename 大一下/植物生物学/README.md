@@ -18,6 +18,8 @@
 
 gcx：建议每个老师的最后一节课都去听一下重点，尤其是何兴金老师。
 
+杨旭家：选何兴金老师，期末背诵老师划的重点，平时作业认真做就ok
+
 # 笔记
 
 2023-植物生物学-笔记-何慕菱：[github](https://github.com/HeMuling/SCU-Biology-Guide/blob/main/大一下/植物生物学/笔记/2023-植物生物学-笔记-何慕菱.pdf),[阿里云盘](https://www.aliyundrive.com/s/s7W8Hzr8EFu)
