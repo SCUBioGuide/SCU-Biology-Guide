@@ -1,6 +1,6 @@
 # 习题
 
-概率统计（理工）-期中考试:[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/tree/main/大二上/概率统计（理工）),[阿里云盘](https://www.aliyundrive.com/s/CDKpYjnAhVo)：更新到2021-2022
+概率统计（理工）-期中考试:[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/tree/main/大二上/概率统计（理工）/习题/概率统计（理工）-期中考试),[阿里云盘](https://www.aliyundrive.com/s/CDKpYjnAhVo)：更新到2021-2022
 
 # 作业
 
