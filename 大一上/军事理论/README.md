@@ -4,7 +4,7 @@
 
 # 复习重点
 
-2022-军事理论-复习重点-何慕菱:PDF[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/blob/main/大一上/军事理论/复习重点/2022-军事理论-复习重点-何慕菱.pdf),[阿里云盘](https://www.aliyundrive.com/s/P5XofsvSBkz),Xmind[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/blob/main/大一上/军事理论/复习重点/2022-军事理论-复习重点-何慕菱.xmind):老师上课勾画的重点整理而成，考试之前背这个就行。
+2022-军事理论-复习重点-何慕菱:PDF[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/tree/main/大一上/军事理论/复习重点/2022-军事理论-复习重点-何慕菱.pdf),[阿里云盘](https://www.aliyundrive.com/s/P5XofsvSBkz),Xmind[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/blob/main/大一上/军事理论/复习重点/2022-军事理论-复习重点-何慕菱.xmind):老师上课勾画的重点整理而成，考试之前背这个就行。
 
 # 学习方法
 

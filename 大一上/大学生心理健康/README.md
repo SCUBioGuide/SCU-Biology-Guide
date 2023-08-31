@@ -6,7 +6,7 @@
 
 # 复习重点
 
-2021-大学生心理健康-开卷资料-何慕菱：[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/blob/main/大一上/大学生心理健康/复习重点/2021-大学生心理健康-开卷资料-何慕菱.pdf),[阿里云盘](https://www.aliyundrive.com/s/NYgbvzz5AfC)：考试为开卷考试
+2021-大学生心理健康-开卷资料-何慕菱：[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/tree/main/大一上/大学生心理健康/复习重点/2021-大学生心理健康-开卷资料-何慕菱.pdf),[阿里云盘](https://www.aliyundrive.com/s/NYgbvzz5AfC)：考试为开卷考试
 
 # 学习方法
 
