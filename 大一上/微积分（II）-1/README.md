@@ -2,6 +2,8 @@
 
 微积分II-1-期末考试:[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/tree/main/大一上/微积分（II）-1/习题/微积分II-1-期末考试),[阿里云盘](https://www.aliyundrive.com/s/rTrRHdJK6ia)：更新至2020-2021
 
+大学数学习题册（第三版）:[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/tree/main/大一上/微积分（II）-1/习题/大学数学习题册（第三版）.pdf),[阿里云盘](https://www.aliyundrive.com/s/CujYCbCbMiG)
+
 # 作业
 
 # 复习重点

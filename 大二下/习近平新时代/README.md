@@ -1,5 +1,7 @@
 # 习题
 
+2022-习近平新时代-课堂真题练习:[github](https://github.com/HeMuling/SCU-Biology-Guide/blob/main/大二下/习近平新时代/习题/2022-习近平新时代-课堂真题练习.pdf),[阿里云盘](https://www.aliyundrive.com/s/NELTnMkupQP)
+
 # 作业
 
 # 复习重点

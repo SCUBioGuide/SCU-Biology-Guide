@@ -1,12 +1,10 @@
 # 实验报告
 
+往届学长的实验报告:[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/tree/main/大一下/大学化学实验（V）/实验报告/往届学长的实验报告.zip),[阿里云盘](https://www.aliyundrive.com/s/cAkGHvxXCEW)
+
 # 学习方法
 
 杨旭家：找好搭档是关键，提前向学姐学长借来往年的实验报告（很重要），不要偷工减料，军备竞赛。实验注意细节，提前预习很重要，实验不要慌乱，产率和品质对于化学实验很重要。
-
-# 笔记
-
-# 课外资源
 
 # 课程评价
 

@@ -10,6 +10,10 @@
 
 2022-动物生物学-PPT整理-gcx:[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/tree/main/大一上/动物生物学/复习重点/2022-动物生物学-PPT整理-gcx.pdf),[阿里云盘](https://www.aliyundrive.com/s/ctiwqQFZsTv)
 
+2022-动物生物学-名词解释-杨旭家：[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/tree/main/大一上/动物生物学/复习重点/2022-动物生物学-名词解释-杨旭家.docx),[阿里云盘](https://www.aliyundrive.com/s/Nm3ioSheUBp)
+
+2022-动物生物学-总结及习题-杨旭家：[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/tree/main/大一上/动物生物学/复习重点/2022-动物生物学-总结及习题-杨旭家.pdf),[阿里云盘](https://www.aliyundrive.com/s/tQ7AMcTLyx9)
+
 # 学习方法
 
 gcx：直接背PPT上的重点

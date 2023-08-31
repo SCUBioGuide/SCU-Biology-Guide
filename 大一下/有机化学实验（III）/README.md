@@ -1,14 +1,6 @@
-# 习题
+# 实验报告
 
-# 作业
-
-# 复习重点
-
-# 学习方法
-
-# 笔记
-
-# 课外资源
+有机实验报告-罗娟:[github](https://github.com/SCUBioGuide/SCU-Biology-Guide/tree/main/大一下/有机化学实验（III）/实验报告/有机实验报告-罗娟),[阿里云盘](https://www.aliyundrive.com/s/36mKUc5szhF)：来源于学长学姐，上传未经过同意，我们深感抱歉。
 
 # 课程评价
 
