@@ -6,7 +6,7 @@
 
 ## 简介
 
-本项目受 [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles) 、 [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/README.md) 及[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)启发，由四川大学生科院2022级同学创立。
+本项目受 [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles) 、 [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/README.md) 、[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)、[中国科*学*技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)、[东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare/tree/master)、[武汉大学课程资料整理](https://github.com/openwhu/OpenWHU)启发，由四川大学生科院2022级同学创立。
 
 本项目旨在帮助在校学生减轻在课内学习中的压力，减少学习生活中因信息差而导致的问题。我们希望能够通过提供大学指南、课程学习的指导与资料，将学长学姐的经验传递下来，解决上述问题。
 
