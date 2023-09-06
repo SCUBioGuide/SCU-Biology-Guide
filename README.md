@@ -2,7 +2,7 @@
 
 [项目主页](https://github.com/SCUBioGuide/SCUBioGuide/tree/main)  [GitBook页面](https://scubioguide.gitbook.io/course-guide-book/)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SCUBioGuide/SCU-Biology-Guide) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/SCUBioGuide/SCU-Biology-Guide)
+![项目大小](https://img.shields.io/github/repo-size/SCUBioGuide/SCU-Biology-Guide) ![项目更新频率](https://img.shields.io/github/commit-activity/y/SCUBioGuide/SCU-Biology-Guide)
 
 
 ## 简介
